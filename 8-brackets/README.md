@@ -10,13 +10,21 @@
 출력에는 \n(줄바꿈)이 없음에 유의하라.
 
 case 1:
+
 입력 :
+
 main ( if ( true ) print ( "hello, world!" ) )
+
 출력 :
+
 YES
 
 case 2 :
+
 입력 :
+
 main ( if ( false ) print ( "hello, world!" )
+
 출력 : 
+
 NO
