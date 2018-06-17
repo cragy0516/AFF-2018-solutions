@@ -8,17 +8,27 @@
 출력에는 \n이 없음에 유의하시오.
 
 case 1 :
+
 입력 :
+
 korean
+
 english
 
+
 출력 :
+
 13
 
 case 2 :
+
 입력 :
+
 asdf
+
 qwer
 
+
 출력 :
+
 8
