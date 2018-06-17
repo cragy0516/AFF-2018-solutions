@@ -8,8 +8,11 @@ year-month-day 형식으로 문자열이 제공되면, 이를 "year년 month월 
 단, year, month, day는 범위를 벗어나지 않는 int형 정수라고 가정한다.
 
 case 1:
+
 입력 :
+
 2018-06-17
 
 출력 :
+
 2018년 06월 17일 \n
